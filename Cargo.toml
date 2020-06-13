@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "ron_main",
+    "ron_lib"
+]
